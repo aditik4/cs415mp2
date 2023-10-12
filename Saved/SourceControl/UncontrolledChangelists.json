@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/aditikhanna/Documents/Unreal Projects/MP2_aditikhanna/Content/Pursuer_Character.uasset",
+				"/Users/aditikhanna/Documents/Unreal Projects/MP2_aditikhanna/Content/Pursuer_AI.uasset",
+				"/Users/aditikhanna/Documents/Unreal Projects/MP2_aditikhanna/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/aditikhanna/Documents/Unreal Projects/MP2_aditikhanna/Content/Mortar.uasset",
+				"/Users/aditikhanna/Documents/Unreal Projects/MP2_aditikhanna/Content/HealthPack_UI.uasset"
+			]
+		}
+	]
+}
